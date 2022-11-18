@@ -10,6 +10,8 @@ import Footer from "./componenrtes/Footer";
 //import del css del componente Footer
 import "./componenrtes/Footer_style.css";
 
+import foto from "../public/img";
+
 function App() {
   return (
     <main className="App">
@@ -33,7 +35,7 @@ function App() {
         <Cards
           titulo_img="Imágen 4"
           descripcion="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor, corrupti eum recusandae, debitis sit natus harum, eius nobis cum totam ullam maxime vitae dignissimos voluptate tenetur vero asperiores? Aut, ducimus."
-          src_img="https://picsum.photos/id/262/200/300"
+          src_img="https://picsum.photos/id/162/200/300"
         />
       </section>
 
